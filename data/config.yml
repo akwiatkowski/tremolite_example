@@ -1,0 +1,5 @@
+site.title: Tremolite Example
+site.desc: "An example static page created by tremolite engine"
+site.email: hello@example.com
+site.url: "https://github.com/akwiatkowski/tremolite"
+site.author: Aleksander Kwiatkowski

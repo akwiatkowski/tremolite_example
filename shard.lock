@@ -1,0 +1,22 @@
+version: 1.0
+shards:
+  common_mark:
+    github: ysbaddaden/crystal-cmark
+    commit: 386765a43a59ce1542f869b955af980d29b3d2fd
+
+  kemal:
+    github: kemalcr/kemal
+    commit: 1c527c2d94b032765fcb40640984c18b3b218f83
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.3.3
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.7
+
+  tremolite:
+    github: akwiatkowski/tremolite
+    commit: 7d512079bc8d4c65fe27a9e6ec00e2ca376e84ac
+

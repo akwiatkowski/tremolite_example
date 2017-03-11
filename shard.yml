@@ -1,0 +1,17 @@
+name: tremolite_example
+version: 0.1.0
+
+authors:
+  - Aleksander Kwiatkowski <bobikx@poczta.fm>
+
+targets:
+  tremolite_example:
+    main: src/tremolite_example.cr
+
+dependencies:
+  tremolite:
+    github: akwiatkowski/tremolite
+
+crystal: 0.21.0
+
+license: MIT
