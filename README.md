@@ -79,10 +79,20 @@ site.author: Aleksander Kwiatkowski
 
 9. Run as explained below :)
 
+  `shards build tremolite_example`
+  `./bin/tremolite_example`
+
 ## Usage
 
-`shards build tremolite_example`
-`./bin/tremolite_example`
+This is the shortest "how to start". [`tremolite`](https://github.com/akwiatkowski/tremolite)
+is intended to be faster and much more customizable static site generator for my
+[personal blog](https://github.com/akwiatkowski/akwiatkowski.github.com) which is
+the purpose I've started [`tremolite`](https://github.com/akwiatkowski/tremolite)
+project.
+
+The project is under (not so heavy) development. It's not ready and not sure when
+it will be. There is massive lack of documentation. It will be developed in the same
+time I spent time on my blog.
 
 ## Development
 
